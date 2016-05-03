@@ -1,0 +1,23 @@
+{
+  "name": "gulp-vendor-js",
+  "version": "0.1.0",
+  "description": "Create Vendor folder for js libs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnhtn/gulp-vendor-js.git"
+  },
+  "keywords": [
+    "js",
+    "libs"
+  ],
+  "author": "mnhtn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnhtn/gulp-vendor-js/issues"
+  },
+  "homepage": "https://github.com/mnhtn/gulp-vendor-js#readme"
+}
